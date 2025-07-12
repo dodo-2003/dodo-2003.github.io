@@ -9,15 +9,15 @@ export function Footer() {
             <div className="w-6 h-6 bg-gradient-primary rounded flex items-center justify-center">
               <Bot className="h-3 w-3 text-white" />
             </div>
-            <span className="font-mono font-semibold">AI.Dev</span>
+            <span className="font-mono font-semibold">Tajammul.Dev</span>
           </div>
           
           <p className="text-sm text-muted-foreground font-mono flex items-center gap-1">
-            Built with <Heart className="h-4 w-4 text-red-500" /> using AI & modern web tech
+            Built by Tajammul Iqbal
           </p>
           
           <p className="text-sm text-muted-foreground font-mono">
-            © 2024 AI Developer Portfolio
+            © 2025 Tajammul Iqbal - Chatbox - Portfolio
           </p>
         </div>
       </div>
