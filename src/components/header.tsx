@@ -28,7 +28,7 @@ export function Header() {
             <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
               <Bot className="h-4 w-4 text-white" />
             </div>
-            <span className="font-mono font-bold text-lg">AI.Dev</span>
+            <span className="font-mono font-bold text-lg">Tajammul.Dev</span>
           </div>
 
           {/* Desktop Navigation */}
